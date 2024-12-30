@@ -1,4 +1,4 @@
-# Untitled
+# LMS data
 
 This is a synthetic dataset based on the study by Jovanović et al. [1]
 and consists mostly of behavioral engagement indicators that can be
